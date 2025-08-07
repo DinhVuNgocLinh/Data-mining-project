@@ -87,7 +87,7 @@ Obesity is a global health issue with multifactorial causes including genetics, 
 | Neural Network        | 91.14%     | 0.911    | 16s      |
 | **Voting Classifier** | **94.12%** | **0.94** | 10s      |
 
-### ✅ Best Model: **Voting Classifier**
+### Best Model: **Voting Classifier**
 
 * Highest accuracy and consistency across classes
 * Strong performance on precision, recall, F1, and ROC-AUC
